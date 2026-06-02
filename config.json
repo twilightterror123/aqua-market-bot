@@ -1,0 +1,10 @@
+{
+    "token": "DEIN_DISCORD_BOT_TOKEN",
+    "guild_id": 123456789012345678,
+    "welcome_channel_id": 123456789012345678,
+    "free_tool_invites": 3,
+    "face_position": {
+        "x": 340,
+        "y": 100
+    }
+}
