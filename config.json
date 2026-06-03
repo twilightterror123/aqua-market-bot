@@ -1,10 +1,13 @@
 {
-    "token": "DEIN_DISCORD_BOT_TOKEN",
-    "guild_id": 123456789012345678,
-    "welcome_channel_id": 123456789012345678,
-    "free_tool_invites": 3,
+    "token": "",
+    "guild_id": 1508928329426931805,
+    "welcome_channel_id": 1509964132806426765,
     "face_position": {
-        "x": 340,
-        "y": 100
+        "x": 600,
+        "y": 135
+    },
+    "avatar_size": {
+        "width": 140,
+        "height": 146
     }
 }
