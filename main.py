@@ -200,4 +200,4 @@ if __name__ == "__main__":
     if not os.path.exists("1.gif"):
         print("[-] 1.gif NOT FOUND")
         sys.exit(1)
-    bot.run(config["MTUwODk4Mjc3OTM5NDY1ODMwNA.GOek05.U5rnqcQopSxDFGqsp1WuVl8DGtna1kVihdop5s"])
+    bot.run(config["MTUwODk4Mjc3OTM5NDY1ODMwNA.GnOhsk._WUf8zc2ecQX_EPipy5aF8341lbuMW5OaTm1SM"])
