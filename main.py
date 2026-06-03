@@ -200,4 +200,4 @@ if __name__ == "__main__":
     if not os.path.exists("1.gif"):
         print("[-] 1.gif NOT FOUND")
         sys.exit(1)
-    bot.run(config["token"])
+    bot.run(config["DISCORD_TOKEN"])
